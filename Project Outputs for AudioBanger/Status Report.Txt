@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [AudioBanger.PrjPCB]
+   Generated File[AudioBanger.GTL]
+   Generated File[AudioBanger.GBL]
+   Generated File[AudioBanger.GTO]
+   Generated File[AudioBanger.GTS]
+   Generated File[AudioBanger.GBS]
+   Generated File[AudioBanger.GBO]
+   Generated File[AudioBanger.GM1]
+   Generated File[AudioBanger.GKO]
+   Generated File[AudioBanger.EXTREP]
+   Generated File[AudioBanger.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 3:31:59 AM On 9/4/2021
